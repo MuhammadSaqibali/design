@@ -1,0 +1,51 @@
+.container1{
+    width: auto;
+    max-width: 1250px;
+    margin: 0 auto;
+    
+}
+.nav1{
+    display: flex;
+}
+.leftdiv{
+    height: auto;
+    max-height: 312px;
+    width: auto;
+    max-width: 15px;
+    margin-top: 85px;
+    margin-left: 20px;
+}
+.leftdiv img{
+    padding-top: 46px;
+}
+.rcon{
+   width: 1230px;
+    margin-left: 4%;
+}
+.grp629{
+    background-image: url("group 629.png");
+    background-repeat: no-repeat;
+    height: 304px;
+    width: 325px;
+    margin-left: 0;
+}
+.grp629 h6{
+    padding-left: 25px;
+    padding-top: 17px;
+    font-size: 27px;
+    color: white;
+}
+.grp629 p{
+    color: white;
+    padding-left: 25px;
+    padding-top: 6px;
+}
+@media screen and (max-width:768px) {
+
+    .btn2{
+       display: none;
+    }
+    .hr{
+        width: 400px;
+    }
+}
